@@ -4,6 +4,7 @@ import pygame
 from random import randint
 import pygame.mixer as m
 
+# Made by Mustafa Mohamed
 # Initialize Pygame
 pygame.init()
 
